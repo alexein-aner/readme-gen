@@ -33,5 +33,4 @@ project based on your inputs.
 - Project Title
 - Project Description
 - Installation Instructions
-- Usage InstructionsOnce you run the application, follow the on-screen prompts 
-to input information 
+- Usage Instructions
